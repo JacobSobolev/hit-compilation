@@ -1,0 +1,28 @@
+task task1 begin
+    integer i = 0;
+    integer x = 5;
+    real y = 6.52;
+    real y1 = -5.13;
+    integer x1 = -5;
+    {
+        do
+            i = i + 1;
+        until(i < x) od
+    }
+end;
+
+task task2 begin
+    integer x = 0;
+    {
+        send task3.signal3(x);
+    }
+end;
+
+task task3 begin
+    accept signal3(integer x;);
+end;
+
+
+parbegin
+    task1 || task2;
+parend

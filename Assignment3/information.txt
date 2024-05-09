@@ -1,0 +1,23 @@
+Students names:
+1. Jacob Sobolev
+
+Operating system:
+Windows10 - 64Bit
+
+Development enviroment:
+Visual Studio 10
+
+Notes:
+
+1.the project was build with cl tools to build the compiler please run the makefile.bat script
+
+2.sometimes the build scripts throws some errors of 'The input line is too long...' please close the cmd and reopen it.
+
+3.make sure you have visual studio 10 installed in "C:\Program Files (x86)"
+    otherwise change the 2 line after the call keyword to point to vcvarsall.bat in you visual studio\vc folder
+
+4.to run the test, run the lex.yy.exe file and choose in the menu 1 or 2 for the related test
+
+5.the output files will be in c:\temp folder.
+
+6.added implementation to semantic checking if the second id on send command is declared in the right task and if it's a signal type

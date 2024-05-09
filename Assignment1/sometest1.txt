@@ -1,0 +1,85 @@
+Token from type 'Task' was found at line: 1, lexeme: 'task'.
+Token from type 'Id' was found at line: 1, lexeme: 'task1'.
+Token from type 'Begin' was found at line: 1, lexeme: 'begin'.
+Token from type 'Integer' was found at line: 2, lexeme: 'integer'.
+Token from type 'Id' was found at line: 2, lexeme: 'i'.
+Token from type 'Assigment' was found at line: 2, lexeme: '='.
+Token from type 'Integer Number' was found at line: 2, lexeme: '0'.
+Token from type 'Semicolon' was found at line: 2, lexeme: ';'.
+Token from type 'Integer' was found at line: 3, lexeme: 'integer'.
+Token from type 'Id' was found at line: 3, lexeme: 'x'.
+Token from type 'Assigment' was found at line: 3, lexeme: '='.
+Token from type 'Integer Number' was found at line: 3, lexeme: '5'.
+Token from type 'Semicolon' was found at line: 3, lexeme: ';'.
+Token from type 'Real' was found at line: 4, lexeme: 'real'.
+Token from type 'Id' was found at line: 4, lexeme: 'y'.
+Token from type 'Assigment' was found at line: 4, lexeme: '='.
+Token from type 'Real Number' was found at line: 4, lexeme: '6.52'.
+Token from type 'Semicolon' was found at line: 4, lexeme: ';'.
+Token from type 'Real' was found at line: 5, lexeme: 'real'.
+Token from type 'Id' was found at line: 5, lexeme: 'y1'.
+Token from type 'Assigment' was found at line: 5, lexeme: '='.
+Token from type 'Real Number' was found at line: 5, lexeme: '-5.13'.
+Token from type 'Semicolon' was found at line: 5, lexeme: ';'.
+Token from type 'Integer' was found at line: 6, lexeme: 'integer'.
+Token from type 'Id' was found at line: 6, lexeme: 'x1'.
+Token from type 'Assigment' was found at line: 6, lexeme: '='.
+Token from type 'Integer Number' was found at line: 6, lexeme: '-5'.
+Token from type 'Semicolon' was found at line: 6, lexeme: ';'.
+Token from type 'Curly Braces Left' was found at line: 7, lexeme: '{'.
+Token from type 'Do' was found at line: 8, lexeme: 'do'.
+Token from type 'Id' was found at line: 9, lexeme: 'i'.
+Token from type 'Assigment' was found at line: 9, lexeme: '='.
+Token from type 'Id' was found at line: 9, lexeme: 'i'.
+Token from type 'Binary Addition' was found at line: 9, lexeme: '+'.
+Token from type 'Integer Number' was found at line: 9, lexeme: '1'.
+Token from type 'Semicolon' was found at line: 9, lexeme: ';'.
+Token from type 'Until' was found at line: 10, lexeme: 'until'.
+Token from type 'Round Brcket Left' was found at line: 10, lexeme: '('.
+Token from type 'Id' was found at line: 10, lexeme: 'i'.
+Token from type 'Lesser' was found at line: 10, lexeme: '<'.
+Token from type 'Id' was found at line: 10, lexeme: 'x'.
+Token from type 'Round Braket Right' was found at line: 10, lexeme: ')'.
+Token from type 'Od' was found at line: 10, lexeme: 'od'.
+Token from type 'Curly Braces Right' was found at line: 11, lexeme: '}'.
+Token from type 'End' was found at line: 12, lexeme: 'end'.
+Token from type 'Semicolon' was found at line: 12, lexeme: ';'.
+Token from type 'Task' was found at line: 14, lexeme: 'task'.
+Token from type 'Id' was found at line: 14, lexeme: 'task2'.
+Token from type 'Begin' was found at line: 14, lexeme: 'begin'.
+Token from type 'Integer' was found at line: 15, lexeme: 'integer'.
+Token from type 'Id' was found at line: 15, lexeme: 'x'.
+Token from type 'Assigment' was found at line: 15, lexeme: '='.
+Token from type 'Integer Number' was found at line: 15, lexeme: '0'.
+Token from type 'Semicolon' was found at line: 15, lexeme: ';'.
+Token from type 'Curly Braces Left' was found at line: 16, lexeme: '{'.
+Token from type 'Send' was found at line: 17, lexeme: 'send'.
+Token from type 'Id' was found at line: 17, lexeme: 'task3'.
+Token from type 'Task Period' was found at line: 17, lexeme: '.'.
+Token from type 'Id' was found at line: 17, lexeme: 'signal3'.
+Token from type 'Round Brcket Left' was found at line: 17, lexeme: '('.
+Token from type 'Id' was found at line: 17, lexeme: 'x'.
+Token from type 'Round Braket Right' was found at line: 17, lexeme: ')'.
+Token from type 'Semicolon' was found at line: 17, lexeme: ';'.
+Token from type 'Curly Braces Right' was found at line: 18, lexeme: '}'.
+Token from type 'End' was found at line: 19, lexeme: 'end'.
+Token from type 'Semicolon' was found at line: 19, lexeme: ';'.
+Token from type 'Task' was found at line: 21, lexeme: 'task'.
+Token from type 'Id' was found at line: 21, lexeme: 'task3'.
+Token from type 'Begin' was found at line: 21, lexeme: 'begin'.
+Token from type 'Accept' was found at line: 22, lexeme: 'accept'.
+Token from type 'Id' was found at line: 22, lexeme: 'signal3'.
+Token from type 'Round Brcket Left' was found at line: 22, lexeme: '('.
+Token from type 'Integer' was found at line: 22, lexeme: 'integer'.
+Token from type 'Id' was found at line: 22, lexeme: 'x'.
+Token from type 'Semicolon' was found at line: 22, lexeme: ';'.
+Token from type 'Round Braket Right' was found at line: 22, lexeme: ')'.
+Token from type 'Semicolon' was found at line: 22, lexeme: ';'.
+Token from type 'End' was found at line: 23, lexeme: 'end'.
+Token from type 'Semicolon' was found at line: 23, lexeme: ';'.
+Token from type 'Parbegin' was found at line: 26, lexeme: 'parbegin'.
+Token from type 'Id' was found at line: 27, lexeme: 'task1'.
+Token from type 'Task Parallel' was found at line: 27, lexeme: '||'.
+Token from type 'Id' was found at line: 27, lexeme: 'task2'.
+Token from type 'Semicolon' was found at line: 27, lexeme: ';'.
+Token from type 'Parend' was found at line: 28, lexeme: 'parend'.

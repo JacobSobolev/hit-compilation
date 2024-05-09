@@ -1,0 +1,175 @@
+The character 'Task' at line: 2 does not begin any legal token in the language.
+Token from type 'Id' was found at line: 2, lexeme: 'beginning'.
+The character 'Project1' at line: 2 does not begin any legal token in the language.
+The character 'Real' at line: 3 does not begin any legal token in the language.
+The character 'VALUE' at line: 3 does not begin any legal token in the language.
+The character '_' at line: 3 does not begin any legal token in the language.
+Token from type 'Integer Number' was found at line: 3, lexeme: '1'.
+Token from type 'Semicolon' was found at line: 3, lexeme: ';'.
+The character 'Real' at line: 3 does not begin any legal token in the language.
+The character 'VALUE' at line: 3 does not begin any legal token in the language.
+The character '_' at line: 3 does not begin any legal token in the language.
+Token from type 'Integer Number' was found at line: 3, lexeme: '2'.
+Token from type 'Semicolon' was found at line: 3, lexeme: ';'.
+Token from type 'Integer' was found at line: 4, lexeme: 'integer'.
+Token from type 'Id' was found at line: 4, lexeme: 'in'.
+Token from type 'Curly Braces Left' was found at line: 5, lexeme: '{'.
+Token from type 'Id' was found at line: 6, lexeme: 'die'.
+The character 'VALUE' at line: 7 does not begin any legal token in the language.
+The character '_' at line: 7 does not begin any legal token in the language.
+Token from type 'Integer Number' was found at line: 7, lexeme: '1'.
+The character 'VALUE' at line: 7 does not begin any legal token in the language.
+The character '_' at line: 7 does not begin any legal token in the language.
+Token from type 'Integer Number' was found at line: 7, lexeme: '2'.
+Token from type 'Assigment' was found at line: 7, lexeme: '='.
+Token from type 'Binary Addition' was found at line: 7, lexeme: '+'.
+Token from type 'Integer Number' was found at line: 7, lexeme: '1'.
+Token from type 'Semicolon' was found at line: 7, lexeme: ';'.
+Token from type 'Send' was found at line: 8, lexeme: 'send'.
+Token from type 'Id' was found at line: 8, lexeme: 'signal'.
+The character '_' at line: 8 does not begin any legal token in the language.
+Token from type 'Integer Number' was found at line: 8, lexeme: '1'.
+Token from type 'Task Period' was found at line: 8, lexeme: '.'.
+Token from type 'Id' was found at line: 8, lexeme: 'project3'.
+Token from type 'Round Brcket Left' was found at line: 8, lexeme: '('.
+The character 'VALUE' at line: 8 does not begin any legal token in the language.
+The character '_' at line: 8 does not begin any legal token in the language.
+Token from type 'Integer Number' was found at line: 8, lexeme: '2'.
+Token from type 'Round Braket Right' was found at line: 8, lexeme: ')'.
+The character 'Until' at line: 9 does not begin any legal token in the language.
+Token from type 'Round Brcket Left' was found at line: 9, lexeme: '('.
+The character 'VALUE' at line: 9 does not begin any legal token in the language.
+The character '_' at line: 9 does not begin any legal token in the language.
+Token from type 'Integer Number' was found at line: 9, lexeme: '1'.
+Token from type 'Equal' was found at line: 9, lexeme: '=='.
+Token from type 'Integer Number' was found at line: 9, lexeme: '10'.
+Token from type 'Round Braket Right' was found at line: 9, lexeme: ')'.
+Token from type 'Od' was found at line: 9, lexeme: 'od'.
+Token from type 'Semicolon' was found at line: 9, lexeme: ';'.
+Token from type 'Id' was found at line: 10, lexeme: 'acceptance'.
+Token from type 'Id' was found at line: 10, lexeme: 'signal'.
+The character '_' at line: 10 does not begin any legal token in the language.
+Token from type 'Integer Number' was found at line: 10, lexeme: '15'.
+Token from type 'Round Brcket Left' was found at line: 10, lexeme: '('.
+Token from type 'Integer' was found at line: 10, lexeme: 'integer'.
+Token from type 'Id' was found at line: 10, lexeme: 'result'.
+Token from type 'Round Braket Right' was found at line: 10, lexeme: ')'.
+Token from type 'Curly Braces Right' was found at line: 11, lexeme: '}'.
+Token from type 'Id' was found at line: 12, lexeme: 'than'.
+Token from type 'Semicolon' was found at line: 12, lexeme: ';'.
+The character 'Task' at line: 15 does not begin any legal token in the language.
+Token from type 'Id' was found at line: 15, lexeme: 'project2'.
+Token from type 'Begin' was found at line: 15, lexeme: 'begin'.
+The character 'Integer' at line: 16 does not begin any legal token in the language.
+Token from type 'Id' was found at line: 16, lexeme: 'x1'.
+Token from type 'Semicolon' was found at line: 16, lexeme: ';'.
+The character 'Integer' at line: 17 does not begin any legal token in the language.
+Token from type 'Id' was found at line: 17, lexeme: 'x2'.
+Token from type 'Semicolon' was found at line: 17, lexeme: ';'.
+Token from type 'Real' was found at line: 18, lexeme: 'real'.
+Token from type 'Id' was found at line: 18, lexeme: 'temp'.
+Token from type 'Curly Braces Left' was found at line: 19, lexeme: '{'.
+Token from type 'Id' was found at line: 20, lexeme: 'x1'.
+Token from type 'Assigment' was found at line: 20, lexeme: '='.
+Token from type 'Integer Number' was found at line: 20, lexeme: '5'.
+Token from type 'Semicolon' was found at line: 20, lexeme: ';'.
+Token from type 'Id' was found at line: 21, lexeme: 'die'.
+Token from type 'Id' was found at line: 22, lexeme: 'x1'.
+Token from type 'Assigment' was found at line: 22, lexeme: '='.
+Token from type 'Id' was found at line: 22, lexeme: 'x1'.
+Token from type 'Binary Addition' was found at line: 22, lexeme: '+'.
+Token from type 'Integer Number' was found at line: 22, lexeme: '1'.
+Token from type 'Semicolon' was found at line: 22, lexeme: ';'.
+Token from type 'Id' was found at line: 22, lexeme: 'x2'.
+Token from type 'Assigment' was found at line: 22, lexeme: '='.
+Token from type 'Id' was found at line: 22, lexeme: 'x1'.
+Token from type 'Binary Addition' was found at line: 22, lexeme: '+'.
+Token from type 'Integer Number' was found at line: 22, lexeme: '2'.
+The character 'Until' at line: 23 does not begin any legal token in the language.
+Token from type 'Round Brcket Left' was found at line: 23, lexeme: '('.
+Token from type 'Id' was found at line: 23, lexeme: 'x'.
+Token from type 'Integer Number' was found at line: 23, lexeme: '1'.
+Token from type 'Lesser' was found at line: 23, lexeme: '<'.
+Token from type 'Integer Number' was found at line: 23, lexeme: '10'.
+Token from type 'Round Braket Right' was found at line: 23, lexeme: ')'.
+Token from type 'Od' was found at line: 23, lexeme: 'od'.
+Token from type 'Semicolon' was found at line: 23, lexeme: ';'.
+Token from type 'Send' was found at line: 24, lexeme: 'send'.
+Token from type 'Id' was found at line: 24, lexeme: 'project1'.
+Token from type 'Task Period' was found at line: 24, lexeme: '.'.
+Token from type 'Id' was found at line: 24, lexeme: 'signal'.
+The character '_' at line: 24 does not begin any legal token in the language.
+Token from type 'Integer Number' was found at line: 24, lexeme: '15'.
+Token from type 'Round Brcket Left' was found at line: 24, lexeme: '('.
+Token from type 'Id' was found at line: 24, lexeme: 'x1'.
+Token from type 'Binary Multiplication' was found at line: 24, lexeme: '*'.
+Token from type 'Integer Number' was found at line: 24, lexeme: '2'.
+Token from type 'Round Braket Right' was found at line: 24, lexeme: ')'.
+Token from type 'Curly Braces Right' was found at line: 25, lexeme: '}'.
+Token from type 'Id' was found at line: 26, lexeme: 'than'.
+Token from type 'Semicolon' was found at line: 26, lexeme: ';'.
+The character 'Task' at line: 30 does not begin any legal token in the language.
+Token from type 'Id' was found at line: 30, lexeme: 'beginning'.
+Token from type 'Id' was found at line: 30, lexeme: 'project3'.
+The character 'X1X2' at line: 31 does not begin any legal token in the language.
+Token from type 'Integer' was found at line: 31, lexeme: 'integer'.
+Token from type 'Semicolon' was found at line: 31, lexeme: ';'.
+Token from type 'Real' was found at line: 32, lexeme: 'real'.
+Token from type 'Id' was found at line: 32, lexeme: 'temp'.
+Token from type 'Curly Braces Left' was found at line: 33, lexeme: '{'.
+Token from type 'Begin' was found at line: 34, lexeme: 'begin'.
+Token from type 'Integer' was found at line: 35, lexeme: 'integer'.
+Token from type 'Id' was found at line: 35, lexeme: 'value'.
+Token from type 'Semicolon' was found at line: 35, lexeme: ';'.
+Token from type 'Real' was found at line: 36, lexeme: 'real'.
+Token from type 'Id' was found at line: 36, lexeme: 'integer1'.
+Token from type 'Curly Braces Left' was found at line: 37, lexeme: '{'.
+The character 'X1X2' at line: 38 does not begin any legal token in the language.
+Token from type 'Assigment' was found at line: 38, lexeme: '='.
+Token from type 'Integer Number' was found at line: 38, lexeme: '-10'.
+Token from type 'Semicolon' was found at line: 38, lexeme: ';'.
+Token from type 'Id' was found at line: 39, lexeme: 'value'.
+Token from type 'Assigment' was found at line: 39, lexeme: '='.
+The character 'X1X2' at line: 39 does not begin any legal token in the language.
+Token from type 'Binary Subtraction' was found at line: 39, lexeme: '-'.
+Token from type 'Integer Number' was found at line: 39, lexeme: '5'.
+Token from type 'Semicolon' was found at line: 39, lexeme: ';'.
+Token from type 'Id' was found at line: 40, lexeme: 'integer1'.
+Token from type 'Assigment' was found at line: 40, lexeme: '='.
+Token from type 'Id' was found at line: 40, lexeme: 'value'.
+Token from type 'Binary Division' was found at line: 40, lexeme: '/'.
+Token from type 'Real Number' was found at line: 40, lexeme: '3.2'.
+Token from type 'Curly Braces Right' was found at line: 41, lexeme: '}'.
+Token from type 'Id' was found at line: 42, lexeme: 'than'.
+Token from type 'Curly Braces Right' was found at line: 43, lexeme: '}'.
+Token from type 'Id' was found at line: 44, lexeme: 'than'.
+Token from type 'Semicolon' was found at line: 44, lexeme: ';'.
+Token from type 'Parbegin' was found at line: 46, lexeme: 'parbegin'.
+Token from type 'Id' was found at line: 47, lexeme: 'project2'.
+Token from type 'Task Parallel' was found at line: 47, lexeme: '||'.
+Token from type 'Id' was found at line: 47, lexeme: 'project3'.
+Token from type 'Parend' was found at line: 48, lexeme: 'parend'.
+Token from type 'Id' was found at line: 51, lexeme: 'than'.
+Token from type 'Semicolon' was found at line: 51, lexeme: ';'.
+Token from type 'Id' was found at line: 51, lexeme: 'proj4'.
+Token from type 'Task' was found at line: 51, lexeme: 'task'.
+Token from type 'Id' was found at line: 51, lexeme: 'x2x1'.
+Token from type 'Integer' was found at line: 51, lexeme: 'integer'.
+The character 'Until' at line: 51 does not begin any legal token in the language.
+Token from type 'Id' was found at line: 51, lexeme: 'a'.
+Token from type 'Task Period' was found at line: 51, lexeme: '.'.
+Token from type 'Id' was found at line: 51, lexeme: 'signal'.
+The character 'Real' at line: 51 does not begin any legal token in the language.
+Token from type 'Curly Braces Left' was found at line: 51, lexeme: '{'.
+Token from type 'Id' was found at line: 51, lexeme: 'temp'.
+Token from type 'Assigment' was found at line: 51, lexeme: '='.
+Token from type 'Id' was found at line: 51, lexeme: 'a'.
+Token from type 'Round Braket Right' was found at line: 51, lexeme: ')'.
+Token from type 'Assigment' was found at line: 51, lexeme: '='.
+Token from type 'Integer Number' was found at line: 51, lexeme: '-5'.
+Token from type 'Binary Division' was found at line: 51, lexeme: '/'.
+Token from type 'Id' was found at line: 51, lexeme: 'than'.
+Token from type 'Task Parallel' was found at line: 51, lexeme: '||'.
+Token from type 'Id' was found at line: 51, lexeme: 'than'.
+Token from type 'Semicolon' was found at line: 51, lexeme: ';'.
+Token from type 'Begin' was found at line: 51, lexeme: 'begin'.
